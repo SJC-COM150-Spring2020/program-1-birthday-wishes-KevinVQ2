@@ -1,0 +1,22 @@
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\bin\Debug\Greetings.exe.config
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\bin\Debug\Greetings.exe
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\bin\Debug\Greetings.pdb
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\bin\Debug\Greetings.xml
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.vbprojResolveAssemblyReference.cache
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.Greetings.resources
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.Resources.resources
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.Cache
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.exe
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.xml
+H:\150\Spring 2020\In Class Tutorials\Greetings\Greetings\obj\Debug\Greetings.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\bin\Debug\Greetings.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\bin\Debug\Greetings.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\bin\Debug\Greetings.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\bin\Debug\Greetings.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.Greetings.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kquinitchett\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.Cache
